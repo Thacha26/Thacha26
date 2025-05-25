@@ -20,11 +20,13 @@ I'm a student of computer science, in UNAM, at faculty of science
 
 ##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thacha26/Thacha26/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thacha26/Thacha26/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contributions" src="https://raw.githubusercontent.com/Thacha26/Thacha26/output/pacman-contribution-graph.svg">
+
 </picture>
+<div align="center">
+  <picture>
+    <img alt="Pacman Dark Mode" src="https://raw.githubusercontent.com/Thacha26/Thacha26/output/pacman-contribution-graph-dark.svg" style="background-color: #000;">
+  </picture>
+</div>
 
 ##
 <div align="center">
