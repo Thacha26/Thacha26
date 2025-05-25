@@ -13,12 +13,15 @@ I'm a Computer Science student at the National Autonomous University of Mexico (
 - [ ] I enjoy challenges  
 - [ ] Meeting new people is never a problem  
 
-# My interests
+## 🤔 My interests
 
 - Karate
 - Draw
 - Machine learning and deep learning
 - Music
+- Anime
+- Technology
+- Cats
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Thacha26&hide_longest_streak=true)](https://git.io/streak-stats)" />
