@@ -5,7 +5,7 @@
 </p>
 
 ## 🐱 About Me
-I'm a student of computer science, in UNAM, at faculty of science
+I'm a Computer Science student at the National Autonomous University of Mexico (UNAM), Faculty of Sciences.
 
 # My interests
 
