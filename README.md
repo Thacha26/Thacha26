@@ -7,6 +7,12 @@
 ## 🐱 About Me
 I'm a Computer Science student at the National Autonomous University of Mexico (UNAM), Faculty of Sciences.
 
+- [ ] I'm passionate about science  
+- [ ] I constantly seek to improve myself, both personally and professionally  
+- [ ] I love learning new things  
+- [ ] I enjoy challenges  
+- [ ] Meeting new people is never a problem  
+
 # My interests
 
 - Karate
