@@ -11,7 +11,12 @@ I'm a Computer Science student at the National Autonomous University of Mexico (
 - [ ] I constantly seek to improve myself, both personally and professionally  
 - [ ] I love learning new things  
 - [ ] I enjoy challenges  
-- [ ] Meeting new people is never a problem  
+- [ ] Meeting new people is never a problem
+
+## 🗺️ I can speak
+
+- [ ] English B2 (certificated)
+- [ ] Spanish (native)
 
 ## 🤔 My interests
 
