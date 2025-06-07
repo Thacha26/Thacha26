@@ -7,21 +7,21 @@
 ## 🐱 About Me
 I'm a Computer Science student at the National Autonomous University of Mexico (UNAM), Faculty of Sciences.
 
-- [ ] I'm passionate about science  
-- [ ] I constantly seek to improve myself, both personally and professionally  
-- [ ] I love learning new things  
-- [ ] I enjoy challenges  
-- [ ] Meeting new people is never a problem
+- [X] I'm passionate about science  
+- [X] I constantly seek to improve myself, both personally and professionally  
+- [X] I love learning new things  
+- [X] I enjoy challenges  
+- [X] Meeting new people is never a problem
 
 ## 🗺️ I can speak
 
-- [ ] English B2 (certificated)
-- [ ] Spanish (native)
+- [X] English B2 (certificated)
+- [X] Spanish (native)
 
 ## 🤔 My interests
 
-- Karate
-- Draw
+- Karate (I'm green belt 2° kyu)
+- Drawing
 - Machine learning and deep learning
 - Music
 - Anime
