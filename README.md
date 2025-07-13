@@ -20,7 +20,7 @@ I'm a Computer Science student at the National Autonomous University of Mexico (
 
 ## 🤔 My interests
 
-- Karate (I'm green belt 2° kyu)
+- Karate (I'm purple belt 4° kyu) 
 - Drawing
 - Machine learning and deep learning
 - Music
