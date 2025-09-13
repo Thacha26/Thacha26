@@ -7,16 +7,25 @@
 ## 🐱 About Me
 I'm a Computer Science student at the National Autonomous University of Mexico (UNAM), Faculty of Sciences.
 
+> [!WARNING]
+> Necesito café para vivir
+
 - [X] I'm passionate about science  
 - [X] I constantly seek to improve myself, both personally and professionally  
 - [X] I love learning new things  
 - [X] I enjoy challenges  
 - [X] Meeting new people is never a problem
 
+> [!NOTE]
+> Tengo una gata que se llama Kira, es muy bonita pero muy gruñona, apenas tiene 2 añitos
+
 ## 🗺️ I can speak
 
 - [X] English B2 (certificated)
 - [X] Spanish (native)
+
+> [!NOTE]
+> Planeo aprender japonés y chino
 
 ## 🤔 My interests
 
@@ -27,6 +36,9 @@ I'm a Computer Science student at the National Autonomous University of Mexico (
 - Anime
 - Technology
 - Cats
+
+> [!IMPORTANT]
+> Quiero aprender a escalar en pared
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Thacha26&hide_longest_streak=true)](https://git.io/streak-stats)" />
