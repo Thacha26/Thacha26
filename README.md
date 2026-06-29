@@ -46,5 +46,5 @@ I'm a Computer Science student at the National Autonomous University of Mexico (
 
 ### Tools:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arch,linux,emacs,bash,git,github" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github" />
 </a>
