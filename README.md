@@ -13,7 +13,6 @@ I'm a Computer Science student at the National Autonomous University of Mexico (
 ---
 
 ## 🛠️ Tech Stack & Tools
-*(Tip: Puedes usar badges de shields.io o iconos simples)*
 
 - **Languages:** `Java` | `C++` | `Haskell` | `Python`
 - **Tools & OS:** `Git` | `Arch Linux` | `Emacs` | `Bash/Fish`
