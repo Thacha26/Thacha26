@@ -36,8 +36,8 @@ I'm a Computer Science student at the National Autonomous University of Mexico (
 ---
 
 ## 📩 Connect with me!
-- **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com](https://www.linkedin.com/in/frida-thais-espinosa-romero?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-- **Email:** [your.email@domain.com](espinosathais50@gmail.com)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frida-thais-espinosa-romero?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **Email:** [espinosathais50@gmail.com](espinosathais50@gmail.com)
 ---
 
 ### Technologies:
