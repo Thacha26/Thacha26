@@ -38,3 +38,14 @@ I'm a Computer Science student at the National Autonomous University of Mexico (
 ## 📩 Connect with me!
 - **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com](https://www.linkedin.com/in/frida-thais-espinosa-romero?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 - **Email:** [your.email@domain.com](espinosathais50@gmail.com)
+---
+
+### Technologies:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,cpp,haskell,py,md" />
+</a>
+
+### Tools:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arch,linux,emacs,bash,git,github" />
+</a>
