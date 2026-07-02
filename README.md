@@ -1,4 +1,4 @@
-## Hello there!, I'm Frida Thais 👋
+## Hello!, I'm Frida Thais 👋
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpmanB3MDVmMnVrcHZ0OWpmbzBsYmpkOTF4OGdpczQzYWdpanhsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width="300" />
