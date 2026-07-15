@@ -1,25 +1,25 @@
-## Hello!, I'm Frida Thais 👋
+## Hello!, I'm Frida Thais 
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpmanB3MDVmMnVrcHZ0OWpmbzBsYmpkOTF4OGdpczQzYWdpanhsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width="300" />
 </p>
 
-## 🐱 About Me
+## About Me
 I'm a Computer Science student at the National Autonomous University of Mexico (UNAM), Faculty of Sciences. I am passionate about science, continuous professional growth, and tackling complex technical challenges.
 
-- 🌍 **Languages:** Native Spanish 🇲🇽 | Certified English B2 🇬🇧
-- 🎯 **Core Focus:** Artificial Intelligence, Machine Learning, and Software Architecture.
+-  **Languages:** Native Spanish  | Certified English B2
+-  **Core Focus:** Artificial Intelligence, Machine Learning, and Software Architecture.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 - **Languages:** `Java` | `C++` | `Haskell` | `Python`
 - **Tools & OS:** `Git` | `Arch Linux` | `Emacs` | `Bash/Fish`
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img alt="Pacman Dark Mode" src="https://raw.githubusercontent.com/Thacha26/Thacha26/output/pacman-contribution-graph-dark.svg" style="background-color: #000; width: 100%;">
@@ -34,7 +34,7 @@ I'm a Computer Science student at the National Autonomous University of Mexico (
 
 ---
 
-## 📩 Connect with me!
+##  Connect with me!
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frida-thais-espinosa-romero?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:espinosathais50@gmail.com)
 ---
